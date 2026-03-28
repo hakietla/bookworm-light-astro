@@ -5,7 +5,7 @@ image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: What I Do
+  title: Test
   items:
     - title: Content Writing
       description: Purus eget ipsum elementum venenatis, quis rutrum mi semper
